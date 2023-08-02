@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(git ls)"
+echo "$(git ls-files)"
