@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-> echo"$(cd)"
-=======
 cd
->>>>>>> 9c7c090d232cadce2216a9d0c08eb2604c832393
