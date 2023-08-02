@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alh | sed 's/K//g'
+ls -alh 
