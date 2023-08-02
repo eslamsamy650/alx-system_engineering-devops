@@ -1,2 +1,1 @@
-#!/bin/bash
-current_directory=$(pwd)/echo "$(pwd -P)\n\chmod u+x 0-current_working_directory"
+#!/bin/bash\necho "$(pwd -P)\n"; chmod u+x 0-current_working_directory.sh #!/bin/bash \n echo "$(pwd -P)\n"; chmod u+x 0-current_working_directory.sh
